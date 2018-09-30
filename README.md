@@ -1,2 +1,2 @@
 # Python_Notes
-My noes for Python
+My notes for Python
